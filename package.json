@@ -1,0 +1,23 @@
+{
+  "name": "@ares/react-native-social",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "social",
+    "google",
+    "facebookk",
+    "instagram",
+    "tiktok"
+  ],
+  "author": "Roberto Stefani",
+  "license": "MIT",
+  "dependencies": {
+    "@react-native-google-signin/google-signin": "^12.2.1",
+    "react-native-fbsdk": "^3.0.0",
+    "react-native-instagram-login": "^2.0.6"
+  }
+}
