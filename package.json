@@ -16,8 +16,6 @@
   "author": "Roberto Stefani",
   "license": "MIT",
   "dependencies": {
-    "@react-native-google-signin/google-signin": "^12.2.1",
-    "react-native-fbsdk": "^3.0.0",
-    "react-native-instagram-login": "^2.0.6"
+    "@react-native-google-signin/google-signin": "^12.2.1"
   }
 }
