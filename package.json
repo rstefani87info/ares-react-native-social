@@ -16,6 +16,7 @@
   "author": "Roberto Stefani",
   "license": "MIT",
   "dependencies": {
-    "@react-native-google-signin/google-signin": "^12.2.1"
+    "@ares/core": "github:rstefani87info/ares-core#master",
+    "@ares/react-native-ui": "github:rstefani87info/ares-react-native-ui"
   }
 }
