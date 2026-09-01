@@ -18,5 +18,8 @@
   "dependencies": {
     "@ares/core": "workspace:^",
     "@ares/react-native-ui": "workspace:^"
+  },
+  "devDependencies": {
+    "@ares/scd": "workspace:^"
   }
 }
